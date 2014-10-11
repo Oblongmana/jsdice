@@ -1,6 +1,8 @@
 # jsDice
 _adopted and mangled from jsDice.com_
 
+This is a fork of [fritzy/jsdice](https://github.com/fritzy/jsdice), set up for installation with bower
+
 The standard dice rolling format for tabletop games is [times]d[sides]. Typical dice strings could add/subtract formats and static numbers together.
 
 jsDice is a small library for parsing dice formula strings as well as rolling the dice.
@@ -17,9 +19,9 @@ jsDice is a small library for parsing dice formula strings as well as rolling th
 
 ## Installation
 
-This adaptation of jsDice is written for Node.js, and may be used browser-side with browserify.
+This adaptation of jsDice is written for `bower`
 
-    npm install jsdice
+    bower install jsdice
 
 ## Stats Template Usage
 
