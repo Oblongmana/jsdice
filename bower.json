@@ -1,0 +1,21 @@
+{
+  "name": "jsdice",
+  "description": "A simple d20 dice parser and roller based on http://jsdice.com",
+  "version": "1.0.0",
+  "main": "jsdice.js",
+  "license": "BSD-2-Clause",
+  "ignore": [
+    ".gitignore",
+    "package.json",
+    "index.js"
+  ],
+  "authors": [
+    { "name": "James Hill", "email": "oblongmana@gmail.com", "homepage": "http://www.oblongmana.com/" },
+    { "name": "Nathan Fritz", "email": "nathan@andyet.net", "homepage": "http://andyet.net/team/nathan"},
+    { "name": "wiz@jsdice.com", "email": "wiz@jsdice.com", "homepage": "http://www.jsdice.com/" }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com:Oblongmana/jsdice.git"
+  }
+}
