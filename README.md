@@ -9,7 +9,6 @@ jsDice is a small library for parsing dice formula strings as well as rolling th
 
 ## Basic Usage
 
-    var Dice = require('jsdice');
     var dieroll = new Dice('4d6 + d20 - 3');
     var results = dieroll.roll();
     console.log(results.total);
